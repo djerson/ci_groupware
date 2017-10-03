@@ -1,0 +1,106 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: Segoe UI;
+	height: 100%;
+}
+
+.login-logo{
+	padding: 10% 2% 2% 2%;
+}
+
+.login-form{
+	padding: 20px;
+	background: #eee;
+	border-radius: 5px;
+	box-shadow: 0 5px 5px #333;
+}
+
+.container{
+	min-width: 1024px;
+}
+
+.header{
+	color: #fff;
+}
+
+.header a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.bg-white-color{
+	background-color: #fff;
+}
+
+.bg-danger-color{
+	background-color: #ff4444;
+}
+
+.bg-warning-color{
+	background-color: #ffbb33;
+}
+
+.bg-success-color{
+	background-color: #00C851;
+}
+
+.bg-info-color{
+	background-color: #33b5e5;
+}
+
+.bg-danger-color-dark{
+	background-color: #CC0000;
+}
+
+.bg-warning-color-dark{
+	background-color: #FF8800;
+}
+
+.bg-success-color-dark{
+	background-color: #007E33;
+}
+
+.bg-info-color-dark{
+	background-color: #0099CC;
+}
+
+.bg-info-color-lighten{
+	background-color: #e3f2fd;
+}
+
+.header-link{
+	padding: 18px;
+}
+
+.header-link:hover,
+.header-link:active,
+.header-link:focus{
+	background-color: rgba(0,0,0,0.5);
+}
+
+#toolbar{
+	padding: 5px;
+}
+
+#content{
+	height: 100%;
+	padding-top: 20px;
+}
+
+.menu{
+	padding-top: 30px;
+	height: 100%;
+}
+
+.menu a.active{
+	background-color: #33b5e5;
+	border-color: #33b5e5;	
+}
+
+.page-content{
+	padding-top: 30px;
+	height: 100%;
+}
